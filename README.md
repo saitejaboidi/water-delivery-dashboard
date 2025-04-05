@@ -1,8 +1,7 @@
 
 # 💧 Water Delivery Business Dashboard
 
-This project showcases a complete **data analytics workflow** for a local water delivery business. It involves data cleaning using **Python (Pandas)** and building an interactive dashboard using **Power BI**.
-
+This is a complete end-to-end data project where I used Python for data cleaning and Power BI for business insights. It simulates a real-world water delivery business.
 ---
 
 ## 📁 Project Structure
