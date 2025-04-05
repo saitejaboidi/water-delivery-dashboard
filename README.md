@@ -45,7 +45,7 @@ Used `pandas` to:
 
 ## 📸 Preview
 
-![Dashboard Screenshot](dashboard.png)
+![dashboard screenshot](dashboard.png)
 
 ---
 
